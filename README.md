@@ -2,6 +2,8 @@
 
 Progetto universitario per il corso di **Calcolatori Elettronici** — progettazione e realizzazione di un circuito digitale per la **codifica e decodifica del Codice di Hamming (12, 8)** con distanza minima di Hamming pari a 3, realizzato con il simulatore [Digital](https://github.com/hneemann/Digital).
 
+<img width="852" height="904" alt="image" src="https://github.com/user-attachments/assets/20ab08b4-a925-4c0c-af43-ce498b152e0c" />
+
 ---
 
 ## 📌 Descrizione
