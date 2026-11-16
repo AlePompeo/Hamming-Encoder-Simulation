@@ -1,4 +1,9 @@
-# 🔢 Circuito Codifica/Decodifica Codice di Hamming (12, 8)
+# 🔢 Codifica/Decodifica Hamming (12, 8) — circuito digitale
+
+> **Hamming (12, 8) encoder/decoder** as a digital circuit in the [Digital](https://github.com/hneemann/Digital) logic simulator: single-error correction, double-error detection, shared XOR networks. University project (Computer Architecture course), Italian documentation.
+
+![Digital](https://img.shields.io/badge/Simulator-Digital-1f6feb) ![Hamming](https://img.shields.io/badge/Code-Hamming%20(12%2C8)-8a2be2) ![License](https://img.shields.io/badge/License-MPL--2.0-orange)
+
 
 Progetto universitario per il corso di **Calcolatori Elettronici** — progettazione e realizzazione di un circuito digitale per la **codifica e decodifica del Codice di Hamming (12, 8)** con distanza minima di Hamming pari a 3, realizzato con il simulatore [Digital](https://github.com/hneemann/Digital).
 
@@ -105,3 +110,12 @@ Un banco di **multiplexer** controllato dal segnale `d` smista le uscite tra la 
 - Correzione automatica di errori singoli
 - Critical path minimizzato tramite calcolo parallelo della sindrome
 - Numero di componenti ridotto con condivisione delle reti XOR tra encoder e decoder
+
+---
+
+## 📄 Licenza
+
+Mozilla Public License 2.0, vedi [`LICENSE`](LICENSE).
+---
+
+*Keywords: Hamming code, Hamming (12,8), error correction, ECC, digital logic, Digital simulator, encoder, decoder, computer architecture, university project.*
